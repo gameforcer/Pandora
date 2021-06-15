@@ -57,17 +57,14 @@ export default {
 
 
 <style scoped>
-    body{
-        background: #000028;
-    }
     .whole{
         margin-top: 5vw;
         width: 100vw;
-        height: 100vh;
+        height: 70vh;
         display: flex;
         flex-direction: row;
         justify-content: center;
-        align-items: top;
+        align-items: center;
     }
     .back{
         display: flex;
